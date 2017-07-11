@@ -1,0 +1,21 @@
+{
+  "name": "app-LBScorrelationmatrices",
+  "version": "1.0.0",
+  "description": "create matrices of correlation between subject's LBS",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "start.sh",
+    "status": "status.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kitchell/app-LBScorrelationmatrices"
+  },
+  "author": "Lindsey Kitchell <kitchell@indiana.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitchell/app-LBScorrelationmatrices/issues"
+  },
+  "homepage": "https://github.com/kitchelll/app-LBScorrelationmatrices#readme"
+}
